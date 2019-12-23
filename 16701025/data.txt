@@ -1,0 +1,1 @@
+{"kisiler": [{"isim": "Oguz", "sehir": "Kahramanmaras"}, {"isim": "Osman", "sehir": "Kayseri"}, {"isim": "Muhammed", "sehir": "Elazig"}]}

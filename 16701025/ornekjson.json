@@ -1,0 +1,16 @@
+{
+	"isim" : "oguz" ,
+	"soyisim" : "sak",
+	"hobiler" : ["oyun oynamak","kitap okumak"],
+	"yas" : 22,
+	"evcil hayvanlar":[
+		{
+			"turu":"kedi",
+			"adi":"pamuk",
+		},
+		{
+			"turu":"kopek",
+			"adi":"karabas",
+		}
+	]
+}
